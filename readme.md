@@ -4,7 +4,7 @@ https://grouplens.org/datasets/movielens/
 
 # untuk menjalankan aplikasi
 
-streamlit run skripsi.py
+streamlit run app.py
 
 # untuk memberhentikan aplikasi
 
